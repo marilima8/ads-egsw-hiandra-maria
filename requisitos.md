@@ -1,0 +1,1 @@
+-e# Requisitos do Projeto\n- O sistema deve permitir cadastro de tarefas.\n- O sistema deve listar tarefas pendentes.
